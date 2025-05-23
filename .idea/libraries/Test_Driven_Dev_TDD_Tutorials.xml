@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Test_Driven_Dev_TDD_Tutorials">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ClassesOrderDemo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/calculator.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TestLifeCyclePerClassDemo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
