@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe8c61bf-aa3f-4212-98b7-6d1448af053a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/code-coverage/Code+Coverage.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/mockito/Mockito.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/UserService2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/UserService2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/UserService2/src/main/java/com/training/estore/dao/Impl/UsersRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/UserService2/src/main/java/com/training/estore/dao/UsersRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/UserService2/src/main/java/com/training/estore/exceptions/EmailNotificationServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/UserService2/src/main/java/com/training/estore/exceptions/UserServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/UserService2/src/main/java/com/training/estore/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/UserService2/src/main/java/com/training/estore/service/EmailVerificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/UserService2/src/main/java/com/training/estore/service/Impl/EmailVerificationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/UserService2/src/main/java/com/training/estore/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/UserService2/src/main/java/com/training/estore/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/calculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/junit/calculator/src/test/java/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/mockito/UserService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/mockito/UserService/src/main/java/com/training/estore/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/mockito/UserService/src/main/java/com/training/estore/dao/Impl/UsersRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/mockito/UserService/src/main/java/com/training/estore/dao/UsersRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/mockito/UserService/src/main/java/com/training/estore/exceptions/EmailNotificationServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/mockito/UserService/src/main/java/com/training/estore/exceptions/UserServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/mockito/UserService/src/main/java/com/training/estore/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/mockito/UserService/src/main/java/com/training/estore/service/EmailVerificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/mockito/UserService/src/main/java/com/training/estore/service/Impl/EmailVerificationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/mockito/UserService/src/main/java/com/training/estore/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/mockito/UserService/src/main/java/com/training/estore/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/mockito/UserService/src/test/java/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/mockito/UserService/src/test/java/com/training/estore/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/UserService2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Test_Driven_Dev_TDD_Tutorials.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Test_Driven_Dev_TDD_Tutorials.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/JUnit+Test+Lifecycle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/junit/JUnit+Test+Lifecycle.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ClassesOrderDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ClassesOrderDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ClassesOrderDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ClassesOrderDemo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ClassesOrderDemo/test/OrderServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/ClassesOrderDemo/src/test/com.training/OrderServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ClassesOrderDemo/test/ProductServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/ClassesOrderDemo/src/test/com.training/ProductServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ClassesOrderDemo/test/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/ClassesOrderDemo/src/test/com.training/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/TestLifeCyclePerClassDemo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/calculator/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/calculator/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/UserService2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/calculator/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/UserService2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/calculator/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/src/main/java/com/training/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/calculator/src/main/java/com/training/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/src/main/java/com/training/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/calculator/src/main/java/com/training/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/src/test/java/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/UserService2/src/test/java/DemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/src/test/java/com/training/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/calculator/src/test/java/com/training/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/src/test/java/com/training/MethodsOrderedByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/calculator/src/test/java/com/training/MethodsOrderedByName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/src/test/java/com/training/MethodsOrderedByOrderIndexTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/calculator/src/test/java/com/training/MethodsOrderedByOrderIndexTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/src/test/java/com/training/MethodsRunningRadomlyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/calculator/src/test/java/com/training/MethodsRunningRadomlyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/src/test/java/com/training/RepeatedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/calculator/src/test/java/com/training/RepeatedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/src/test/resources/integerAddition.csv" beforeDir="false" afterPath="$PROJECT_DIR$/examples/junit/calculator/src/test/resources/integerAddition.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/target/surefire-reports/DemoTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/target/surefire-reports/TEST-DemoTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/calculator/target/test-classes/integerAddition.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2xVdrasgtcIiNBV9g6ZNY23pEjK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Maven.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/inno607/git/Test_Driven_Dev_TDD_Tutorials/docs/code-coverage&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/code-coverage" />
+      <recent name="$PROJECT_DIR$/examples/UserService/src/main/java/com/training/estore" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/mockito" />
+      <recent name="$PROJECT_DIR$/docs/junit-jupiter-unit-tests" />
+      <recent name="$PROJECT_DIR$/examples/junit-unit-tests" />
+      <recent name="$PROJECT_DIR$/examples/mockito-unit-n-int-tests" />
+      <recent name="$PROJECT_DIR$/examples/ClassesOrderDemo/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/examples/mockito/UserService" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe8c61bf-aa3f-4212-98b7-6d1448af053a" name="Changes" comment="" />
+      <created>1748027374459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748027374459</updated>
+      <workItem from="1748027375700" duration="13144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
